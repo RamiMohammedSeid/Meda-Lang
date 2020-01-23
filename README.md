@@ -9,4 +9,4 @@ The repo contain 4 folders
 ### Google Colab for training the model
 ### A Community app
 ### Web app
-### Language Detection model
+### Language Detection ipynb model
