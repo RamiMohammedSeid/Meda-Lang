@@ -11,4 +11,4 @@ The repo contain 4 folders
 ### Web app
 ### Language Detection ipynb model
 
-This is only a demostration and we were'nt able to work on a full scale oromiffa-tigrinya because of the very small resource the have
+This is only a demostration and we I was not able to work on a full scale oromiffa-tigrinya because of the very small resource they have
